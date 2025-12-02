@@ -1,0 +1,34 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nombre": "Deportes",
+      "descripcion": "Noticias sobre deportes, fútbol, basketball y más"
+    },
+    {
+      "id": 2,
+      "nombre": "Tecnología",
+      "descripcion": "Las últimas novedades en tecnología y gadgets"
+    },
+    {
+      "id": 3,
+      "nombre": "Política",
+      "descripcion": "Actualidad política nacional e internacional"
+    },
+    {
+      "id": 4,
+      "nombre": "Entretenimiento",
+      "descripcion": "Películas, música, series y celebridades"
+    },
+    {
+      "id": 5,
+      "nombre": "Ciencia",
+      "descripcion": "Descubrimientos científicos y avances"
+    },
+    {
+      "id": 6,
+      "nombre": "Economía",
+      "descripcion": "Mercados, finanzas y economía mundial"
+    }
+  ]
+}
